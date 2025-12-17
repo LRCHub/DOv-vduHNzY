@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "「生きろ」",
+  "base_artist": "NEWS",
+  "createdAt": "2025-12-17T10:39:07.783774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きろ",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_生きろ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「生きろ」",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/02_「生きろ」_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「生きろ」  (WORLDISTA LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/03_「生きろ」_(WORLDISTA_LIVE_Ver.)_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「生きろ」  (STORY LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/04_「生きろ」_(STORY_LIVE_Ver.)_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "「生きろ」  (NEWS EXPO LIVE Ver.)",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/05_「生きろ」_(NEWS_EXPO_LIVE_Ver.)_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "生きろ!!",
+      "artist": "You'll Melt More!",
+      "has_synced": false,
+      "path": "select/06_生きろ!!_You'll_Melt_More!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きろ",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_生きろ_NEWS.txt"
+    }
+  ]
+}
